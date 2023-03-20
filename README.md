@@ -19,6 +19,9 @@
 <h3 align="left">Estudando e utilizando atualmente:</h3>
 
 <p align="left">
+    <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
+    <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
+    <a href="https://stackshare.io/visual-studio-code" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /></a>
     <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
     <a href="https://stackshare.io/spring" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="40" height="40" /></a>
     <a href="https://stackshare.io/eclipse" target="_blank"><img src="https://cdn.icon-icons.com/icons2/3110/PNG/512/eclipse_icon_191751.png" alt="java" width="40" height="40" /></a>
