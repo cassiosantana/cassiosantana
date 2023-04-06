@@ -1,32 +1,24 @@
-# Olá 👋
+### Olá,
 
-<p>Eu sou Cássio Santana.</p>
-<p>Sou formando em Sistemas de Informação.</p>
+Sou Cássio Santana, desenvolvedor backend em transição de carreira, pois atuava como auditor interno realizando auditorias, inventários, dando feedbacks construtivos, realizando ações corretivas, orientações e fazendo relatórios. Adquiri neste período habilidades comportamentais como inteligência emocional, bom relacionamento interpessoal e trabalho em equipe. 
 
----
+Quero trazer esta experiência para o desenvolvimento de software e colaborar com a comunidade. 
 
-<h3 align="left">Conect-se comigo</h3>
-<p align="left">
-    <a align="left" href="https://www.linkedin.com/in/cassioosantana/" target="_blank"><img align="center" src="https://github.com/cassiosantana/cassiosantana/blob/main/linkedin.png?raw=true" alt="cassiosantana" height="40" width="40" /></a>
-    <a align="left" href="https://t.me/cassiooroger" target="_blank"><img align="center" src="https://github.com/cassiosantana/cassiosantana/blob/main/telegram.png?raw=true" alt="marcodotcastro" height="40" width="40"/></a> 
-    <a align="left" href="mailto: cassioo.roger@gmail.com" target="_blank"><img align="center" src="https://github.com/cassiosantana/cassiosantana/blob/main/gmail.png?raw=true" alt="marcodotcastro" height="52" width="40"/></a>
-</p>
+Estou sempre mirando nas estrelas, pois se eu errar acerto o céu.
 
----
+### Conecte-se comigo:
 
-<img align="right" alt="GIF" src="https://github.com/marcodotcastro/marcodotcastro/blob/master/code.gif?raw=true" width="70%" height="400px" />   
+<code>[![Linkedin: Cassio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassioosantana/)</code>
+<code>[![Telegram: Cassio](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cassiooroger)</code>
 
-<h3 align="left">Estudando e utilizando atualmente:</h3>
 
-<p align="left">
-    <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
-    <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
-    <a href="https://stackshare.io/visual-studio-code" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40" /></a>
-    <a href="https://stackshare.io/java" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-    <a href="https://stackshare.io/spring" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="java" width="40" height="40" /></a>
-    <a href="https://stackshare.io/eclipse" target="_blank"><img src="https://cdn.icon-icons.com/icons2/3110/PNG/512/eclipse_icon_191751.png" alt="java" width="40" height="40" /></a>
-    <a href="https://stackshare.io/git" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" alt="git" width="40" height="40" /></a>
-    <a href="https://stackshare.io/github" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" alt="github" width="40" height="40" /></a>
-    <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
-    <a href="https://stackshare.io/ubuntu" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg" alt="java" width="40" height="40" /></a>
-</p>
+### Tecnologias que estou utilizando e aprendendo:
+<code><a href="https://stackshare.io/git" target="_blank">![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)</a></code>
+<code><a href="https://stackshare.io/github" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a></code>
+<code><a href="https://stackshare.io/ruby" target="_blank">![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</a></code>
+<code><a href="https://stackshare.io/rails" target="_blank">![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</a></code>
+<code><a href="https://stackshare.io/postgresql" target="_blank">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a></code>
+<code><a href="https://stackshare.io/linux" target="_blank">![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)</a></code>
+
+
+ <img align="center" alt="GIF" src="https://github.com/cassiosantana/cassiosantana/blob/main/code.gif?raw=true" width="100%" height="400px" />
