@@ -26,7 +26,8 @@ I'm always reaching for the stars because even if I miss, I'll land in the sky.
 <code><a href="https://stackshare.io/linux" target="_blank">![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)</a></code>
 
 <hr>
-<div align="center">  
+### My GitHub stats:
+<div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cassiosantana&show_icons=true&count_private=true&hide_border=true&title_color=353be8&icon_color=353be8&text_color=c9d1d9&bg_color=0d1117" alt="Cassio Santana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiosantana&layout=compact&hide_border=true&title_color=353be8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
