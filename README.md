@@ -27,7 +27,7 @@ I'm always reaching for the stars because even if I miss, I'll land in the sky.
 
 <hr>
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cassiosantana&show_icons=true&count_private=true&hide_border=true&title_color=353be8&icon_color=353be8&text_color=c9d1d9&bg_color=0d1117" alt="Daiana Simão github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cassiosantana&show_icons=true&count_private=true&hide_border=true&title_color=353be8&icon_color=353be8&text_color=c9d1d9&bg_color=0d1117" alt="Cassio Santana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiosantana&layout=compact&hide_border=true&title_color=353be8&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 <hr>
