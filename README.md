@@ -20,9 +20,7 @@ Estou sempre mirando nas estrelas, pois se eu errar acerto o céu.
 <code><a href="https://stackshare.io/postgresql" target="_blank">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/linux" target="_blank">![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)</a></code>
 
-
-<hr>
-
+### Meu Wakatime:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%204%20mins-blue)
 
