@@ -20,6 +20,6 @@ jobs:
           SHOW_EDITORS: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SYMBOL_VERSION: "3"
-          LOCALE: "pt_BR"
+          LOCALE: "pt"
           SHOW_LOC_CHART: "false"
           
