@@ -1,6 +1,5 @@
  <img src="https://komarev.com/ghpvc/?username=cassiosantana" alt="cassiosantana" />
 
-
  ### Hello,
 
 I'm Cássio Santana, a backend developer in career transition, as I used to work as an internal auditor conducting audits, inventories, providing constructive feedback, implementing corrective actions, offering guidance, and creating reports. Throughout this period, I've acquired behavioral skills such as emotional intelligence, good interpersonal relationships, and teamwork abilities.
@@ -26,6 +25,11 @@ I'm always reaching for the stars because even if I miss, I'll land in the sky.
 <code><a href="https://stackshare.io/postgresql" target="_blank">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/linux" target="_blank">![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)</a></code>
 
+<hr>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cassiosantana&show_icons=true&count_private=true&hide_border=true&title_color=353be8&icon_color=353be8&text_color=c9d1d9&bg_color=0d1117" alt="Daiana Simão github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiosantana&layout=compact&hide_border=true&title_color=353be8&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 <hr>
 
 ### My Wakatime stats:
