@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am BRT
+    # Runs at 0am BRT
     - cron: '0 3 * * *'
   workflow_dispatch:
 
@@ -20,6 +20,6 @@ jobs:
           SHOW_EDITORS: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SYMBOL_VERSION: "3"
-          LOCALE: "pt"
           SHOW_LOC_CHART: "false"
+          LOCALE: "en"
           
