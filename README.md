@@ -18,6 +18,7 @@ I'm always reaching for the stars because even if I miss, I'll land in the sky.
 <hr>
 
 ### Technologies I am currently using and learning:
+
 <code><a href="https://stackshare.io/git" target="_blank">![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/github" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/ruby" target="_blank">![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</a></code>
