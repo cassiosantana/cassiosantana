@@ -1,25 +1,24 @@
-
  <img src="https://komarev.com/ghpvc/?username=cassiosantana" alt="cassiosantana" />
 
 
- ### Olá,
+ ### Hello,
 
-Sou Cássio Santana, desenvolvedor backend em transição de carreira, pois atuava como auditor interno realizando auditorias, inventários, dando feedbacks construtivos, realizando ações corretivas, orientações e fazendo relatórios. Adquiri neste período habilidades comportamentais como inteligência emocional, bom relacionamento interpessoal e trabalho em equipe. 
+I'm Cássio Santana, a backend developer in career transition, as I used to work as an internal auditor conducting audits, inventories, providing constructive feedback, implementing corrective actions, offering guidance, and creating reports. Throughout this period, I've acquired behavioral skills such as emotional intelligence, good interpersonal relationships, and teamwork abilities.
 
-Quero trazer esta experiência para o desenvolvimento de software e colaborar com a comunidade. 
+Now, I aim to bring this valuable experience to software development and contribute to the community.
 
-Estou sempre mirando nas estrelas, pois se eu errar acerto o céu.
+I'm always reaching for the stars because even if I miss, I'll land in the sky.
 
 <hr>
 
-### Conecte-se comigo:
+### Connect with me:
 
 <code>[![Linkedin: Cassio](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassioosantana/)</code>
 <code>[![Telegram: Cassio](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cassiooroger)</code>
 
 <hr>
 
-### Tecnologias que estou utilizando e aprendendo:
+### Technologies I am currently using and learning:
 <code><a href="https://stackshare.io/git" target="_blank">![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/github" target="_blank">![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/ruby" target="_blank">![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)</a></code>
@@ -29,7 +28,7 @@ Estou sempre mirando nas estrelas, pois se eu errar acerto o céu.
 
 <hr>
 
-### Meu Wakatime:
+### My Wakatime stats:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%204%20mins-blue)
 
