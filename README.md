@@ -21,4 +21,7 @@ Estou sempre mirando nas estrelas, pois se eu errar acerto o céu.
 <code><a href="https://stackshare.io/linux" target="_blank">![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)</a></code>
 
 
- <img align="center" alt="GIF" src="https://github.com/cassiosantana/cassiosantana/blob/main/code.gif?raw=true" width="100%" height="400px" />
+<hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
