@@ -2,11 +2,18 @@
 
  ### Hello,
 
-I'm Cássio Santana, a backend developer in career transition, as I used to work as an internal auditor conducting audits, inventories, providing constructive feedback, implementing corrective actions, offering guidance, and creating reports. Throughout this period, I've acquired behavioral skills such as emotional intelligence, good interpersonal relationships, and teamwork abilities.
+I'm Cássio Santana, a passionate backend developer with a focus on Ruby and Ruby on Rails, seeking new challenges in the world of programming.
 
-Now, I aim to bring this valuable experience to software development and contribute to the community.
+## Versatile Experience
+Before diving into software development, I spent 5 years as an internal auditor, conducting audits, data analysis, and providing constructive feedback. This experience equipped me with a strategic perspective and essential skills, including emotional intelligence and effective collaboration.
 
-I'm always reaching for the stars because even if I miss, I'll land in the sky.
+## Startup and Innovation
+I participated in a team project at DesenvolvendoMe, where I contributed to an innovative project in the hotel industry using Ruby on Rails. This experience strengthened my teamwork and communication skills. In May 2023, I received an invitation to join a promising startup that leverages AI to optimize the medical sector. While my passion lies in backend development, I'm excited to dive into emerging technologies and grow alongside the team.
+
+## Professional Approach
+I believe that programming languages and frameworks are tools to achieve goals. My dedication is to be a versatile programmer, capable of adapting to needs and delivering effective solutions. Each step in my software development journey is a stride toward my higher purpose, keeping me committed and focused.
+
+Thank you for visiting my profile! 🙌
 
 <hr>
 
