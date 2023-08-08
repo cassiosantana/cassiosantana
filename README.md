@@ -25,6 +25,7 @@ I'm always reaching for the stars because even if I miss, I'll land in the sky.
 <code><a href="https://stackshare.io/rails" target="_blank">![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/postgresql" target="_blank">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a></code>
 <code><a href="https://stackshare.io/linux" target="_blank">![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)</a></code>
+<code><a href="https://stackshare.io/stripe" target="_blank">![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)</a></code>
 
 <hr>
 
