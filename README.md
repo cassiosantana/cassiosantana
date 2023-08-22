@@ -2,20 +2,31 @@
 
  ### Hello,
 
-I'm Cássio Santana, a passionate backend developer with a focus on Ruby and Ruby on Rails, seeking new challenges in the world of programming.
+I'm Cássio Santana
 
-## Versatile Experience
-Before diving into software development, I spent 5 years as an internal auditor, conducting audits, data analysis, and providing constructive feedback. This experience equipped me with a strategic perspective and essential skills, including emotional intelligence and effective collaboration.
-
-## Startup and Innovation
-I participated in a team project at DesenvolvendoMe, where I contributed to an innovative project in the hotel industry using Ruby on Rails. This experience strengthened my teamwork and communication skills. In May 2023, I received an invitation to join a promising startup that leverages AI to optimize the medical sector. While my passion lies in backend development, I'm excited to dive into emerging technologies and grow alongside the team.
-
-## Professional Approach
-I believe that programming languages and frameworks are tools to achieve goals. My dedication is to be a versatile programmer, capable of adapting to needs and delivering effective solutions. Each step in my software development journey is a stride toward my higher purpose, keeping me committed and focused.
-
-Thank you for visiting my profile! 🙌
-
-<hr>
+<h3>Open Source Projects</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Project</th>
+            <th>Skills</th>
+            <th>Stars</th>
+            <th>Forks</th>
+            <th>Issues</th>
+            <th>Pull requests</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/cassiosantana/pages_ahead"><b>Pages Ahead</b></a></td>
+            <td>Developer</td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Connect with me:
 
@@ -38,9 +49,9 @@ Thank you for visiting my profile! 🙌
 
 ### My GitHub stats:
 
-<div align="left">  
+<div>  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cassiosantana&show_icons=true&count_private=true&hide_border=true&title_color=353be8&icon_color=353be8&text_color=c9d1d9&bg_color=0d1117" alt="Cassio Santana github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiosantana&layout=compact&hide_border=true&title_color=353be8&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiosantana&layout=compact&hide_border=true&title_color=353be8&text_color=c9d1d9&bg_color=0d1117"  alt="Cassio Santana most used languages"/>
 </div>
 <hr>
 
