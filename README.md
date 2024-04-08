@@ -60,7 +60,7 @@ I'm Cássio Santana
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -73,5 +73,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/04/2024 03:15:58 UTC
+ Last Updated on 08/04/2024 03:16:36 UTC
 <!--END_SECTION:waka-->
