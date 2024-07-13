@@ -25,6 +25,14 @@ I'm Cássio Santana
             <td><img alt="Issues" src="https://img.shields.io/github/issues/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
             <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
         </tr>
+        <tr>
+            <td><a href="https://github.com/cassiosantana/algorithms_ruby"><b>Algorithms Ruby</b></a></td>
+            <td>Developer</td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
+        </tr>
     </tbody>
 </table>
 
