@@ -66,8 +66,24 @@ I'm Cássio Santana
 ### My Wakatime stats:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C239%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 25/07/2024 03:18:45 UTC
+```text
+💬 Programming Languages: 
+ERB                      9 hrs 9 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   49.65 % 
+Ruby                     7 hrs 47 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   42.26 % 
+Markdown                 36 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.28 % 
+JavaScript               17 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.58 % 
+Text                     13 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.24 % 
+
+💻 Operating System: 
+Linux                    18 hrs 27 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+
+ Last Updated on 26/07/2024 03:19:15 UTC
 <!--END_SECTION:waka-->
