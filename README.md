@@ -4,45 +4,23 @@
 
 I'm Cássio Santana
 
-<h3>Open Source Projects</h3>
-<table>
-    <thead>
-        <tr>
-            <th>Project</th>
-            <th>Skills</th>
-            <th>Stars</th>
-            <th>Forks</th>
-            <th>Issues</th>
-            <th>Pull requests</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://github.com/cassiosantana/pages_ahead"><b>Pages Ahead</b></a></td>
-            <td>Developer</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cassiosantana/pages_ahead?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/cassiosantana/algorithms_ruby"><b>Algorithms Ruby</b></a></td>
-            <td>Developer</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cassiosantana/algorithms_ruby?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-         <tr>
-            <td><a href="https://github.com/cassiosantana/rails_api_versioning"><b>API Versioning</b></a></td>
-            <td>Developer</td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/cassiosantana/rails_api_versioning?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/cassiosantana/rails_api_versioning?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/cassiosantana/rails_api_versioning?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cassiosantana/rails_api_versioning?style=flat-square&labelColor=343b41" /></td>
-        </tr>
-    </tbody>
-</table>
+## Projects
+
+### [REST API Versioning](https://github.com/cassiosantana/rails_api_versioning)
+- Demonstrar o versionamento de API realizando mudanças sem quebrar clientes existentes, permitindo a coexistência de múltiplas versões. As respostas são simples mas suas serializações são gerenciadas por um serviço específico para atender a especificação JSON:API garantindo que os dados estejam estruturados corretamente.
+- [**Issues**](https://github.com/cassiosantana/rails_api_versioning/issues)
+- [**Pull Requests**](https://github.com/cassiosantana/rails_api_versioning/pulls)
+
+### [Algorithms Ruby](https://github.com/cassiosantana/algorithms_ruby)
+- Dedicado à resolução de algoritmos e problemas em Ruby. Inclui testes com RSpec e gerencia o progresso através de projetos que categorizam algoritmos e problemas por nível de dificuldade.
+- [**Issues**](https://github.com/cassiosantana/algorithms_ruby/issues)
+- [**Pull Requests**](https://github.com/cassiosantana/algorithms_ruby/pulls)
+
+### [Pages Ahead](https://github.com/cassiosantana/pages_ahead)
+- Uma aplicação Rails simples, mas completa, que funcione como um sistema de gestão de editora de livros, fornecendo um ambiente para gerenciar autores, livros, peças, montagens, fornecedores e contas.
+- [**Issues**](https://github.com/cassiosantana/pages_ahead/issues)
+- [**Pull Requests**](https://github.com/cassiosantana/pages_ahead/pulls)
+
 
 ### Connect with me:
 
@@ -74,7 +52,7 @@ I'm Cássio Santana
 ### My Wakatime stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C266%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C263%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,16 +60,16 @@ I'm Cássio Santana
 
 ```text
 💬 Programming Languages: 
-Ruby                     15 hrs 38 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜   79.78 % 
-Markdown                 3 hrs 30 mins       ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.88 % 
-YAML                     15 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.34 % 
-Other                    6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.55 % 
-GitIgnore file           2 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.22 % 
+Ruby                     12 hrs 51 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜   71.45 % 
+Markdown                 4 hrs 36 mins       ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.60 % 
+YAML                     15 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.46 % 
+Other                    6 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.60 % 
+GitIgnore file           3 mins              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.31 % 
 
 💻 Operating System: 
-Linux                    19 hrs 36 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Linux                    17 hrs 59 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
- Last Updated on 06/08/2024 03:19:17 UTC
+ Last Updated on 05/08/2024 03:19:07 UTC
 <!--END_SECTION:waka-->
