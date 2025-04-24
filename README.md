@@ -45,12 +45,12 @@ I'm Cássio Santana
 
 ```text
 💬 Programming Languages: 
-Ruby                     0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/04/2025 03:36:12 UTC
+ Last Updated on 24/04/2025 03:37:52 UTC
 <!--END_SECTION:waka-->
